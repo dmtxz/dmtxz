@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://dkjrz.github.io/my-portfolio" target="_blank"><strong>My Portfolio Website</strong></a><br>
+  🔗 <a href="https://dmtxz.github.io/my-portfolio" target="_blank"><strong>My Portfolio Website</strong></a><br>
   📂 <a href="https://github.com/dmtxz?tab=repositories" target="_blank"><strong>GitHub Repositories</strong></a>
 </p>
 
