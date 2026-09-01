@@ -1,316 +1,540 @@
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Midnight Zone">
-
-<br><br>
-
-# 🖤 DMTXZ
-
-### `Web Developer` · `Python Developer` · `Cybersecurity Student`
-
-<p>
-  <i>Building things in the dark. Understanding how they work.</i>
-</p>
-
-<br>
-
-<a href="https://github.com/dmtxz">
-  <img src="https://img.shields.io/badge/GitHub-DMTXZ-8B7CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d12">
-</a>
-<a href="https://dmtxz.github.io/my-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8B7CFF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d12">
-</a>
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-## 🕶️ `MIDNIGHT ZONE`
-
-</div>
-
-> Welcome to my corner of the internet.
->
-> I'm **DMTXZ**, a developer interested in **web development, programming and cybersecurity**.
->
-> I build websites, applications, bots and experiments — while learning how systems work underneath and how they can be made more secure.
-
-<br>
-
-<div align="center">
-
-`CODE` &nbsp; `BUILD` &nbsp; `BREAK` &nbsp; `LEARN` &nbsp; `REPEAT`
-
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ TECH STACK
-
-### Languages & Web
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-0d0d12?style=for-the-badge&logo=python&logoColor=8B7CFF">
-</a>
-<a href="https://isocpp.org/">
-<img src="https://img.shields.io/badge/C%2B%2B-0d0d12?style=for-the-badge&logo=cplusplus&logoColor=8B7CFF">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML5-0d0d12?style=for-the-badge&logo=html5&logoColor=8B7CFF">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-0d0d12?style=for-the-badge&logo=css3&logoColor=8B7CFF">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-0d0d12?style=for-the-badge&logo=javascript&logoColor=8B7CFF">
-</a>
-
-<br><br>
-
-### Tools & Technologies
-
-<a href="https://www.figma.com/">
-<img src="https://img.shields.io/badge/Figma-0d0d12?style=for-the-badge&logo=figma&logoColor=8B7CFF">
-</a>
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-0d0d12?style=for-the-badge&logo=git&logoColor=8B7CFF">
-</a>
-<a href="https://flask.palletsprojects.com/">
-<img src="https://img.shields.io/badge/Flask-0d0d12?style=for-the-badge&logo=flask&logoColor=white">
-</a>
-<a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/Linux-0d0d12?style=for-the-badge&logo=linux&logoColor=8B7CFF">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 WHAT I BUILD
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="33%" align="center">
-
-### 🌐 Web
-
-Websites and web applications with a focus on clean UI, responsive layouts and functionality.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🐍 Python
-
-Bots, automation tools, applications and different experiments.
-
-`Python` `Flask` `APIs`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛡️ Security
-
-Learning about networks, Linux, web security and secure development.
-
-`Linux` `Networking` `OWASP`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚀 SELECTED PROJECTS
-
-</div>
-
-### 🤖 Telegram School Bot
-
-> Telegram bot created for working with school schedules, bell times, notifications and communication.
-
-**Stack:** `Python` · `Telegram API` · `Automation`
-
-[→ View repository](https://github.com/dmtxz/telegram-school-bot)
-
----
-
-### 🎮 First Person Shooter — Ursina
-
-> A first-person shooter experiment built with Python and Ursina Engine.
-
-Features include shooting, enemies, HUD, health/ammunition systems and map interaction.
-
-**Stack:** `Python` · `Ursina` · `Game Development`
-
-[→ View repository](https://github.com/dmtxz/first-person-shooter-ursina)
-
----
-
-### 🎨 Mixlab — Figma to HTML
-
-> Responsive web layout recreated from a Figma design using HTML and CSS.
-
-**Stack:** `HTML` · `CSS` · `Responsive Design`
-
-[→ View repository](https://github.com/dmtxz/mixlab-figma-to-html)
-
----
-
-### 👮 SA Police Community
-
-> Web project created around a San Andreas Police Community and its online ecosystem.
-
-**Stack:** `HTML` · `CSS` · `Web Development`
-
-[→ View repository](https://github.com/dmtxz/sa-police-community)
-
----
-
-<div align="center">
-
-<a href="https://github.com/dmtxz?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0d0d12?style=for-the-badge&logo=github&logoColor=8B7CFF">
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GITHUB
-
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=dmtxz&show_icons=true&hide_border=true&bg_color=0d0d12&title_color=8B7CFF&text_color=B8B8C0&icon_color=8B7CFF"
-height="165"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtxz&layout=compact&hide_border=true&bg_color=0d0d12&title_color=8B7CFF&text_color=B8B8C0"
-height="165"
-/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=dmtxz&theme=dark&hide_border=true&background=0d0d12&ring=8B7CFF&fire=8B7CFF&currStreakLabel=8B7CFF"
-width="700"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛡️ CYBERSECURITY
-
-</div>
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                   SECURITY ROADMAP                       │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  [✓] Programming Fundamentals                          │
-│  [✓] Web Development                                    │
-│  [•] Linux                                               │
-│  [•] Networking                                          │
-│  [•] Web Security                                        │
-│  [•] OWASP                                               │
-│  [ ] CTF / Pentesting                                    │
-│  [ ] Advanced Security                                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-````
-
-> Currently learning how applications, networks and operating systems work — with the goal of understanding both **development and security**.
-
----
-
-<div align="center">
-
-## 🌐 FIND ME
-
-<br>
-
-<a href="https://github.com/dmtxz">
-<img src="https://img.shields.io/badge/GitHub-DMTXZ-0d0d12?style=for-the-badge&logo=github&logoColor=8B7CFF">
-</a>
-
-<a href="https://dmtxz.github.io/my-portfolio">
-<img src="https://img.shields.io/badge/Portfolio-DMTXZ-0d0d12?style=for-the-badge&logo=firefox&logoColor=8B7CFF">
-</a>
-
-<a href="https://www.instagram.com/dkjrzz">
-<img src="https://img.shields.io/badge/Instagram-0d0d12?style=for-the-badge&logo=instagram&logoColor=8B7CFF">
-</a>
-
-<a href="https://t.me/dmtxz">
-<img src="https://img.shields.io/badge/Telegram-0d0d12?style=for-the-badge&logo=telegram&logoColor=8B7CFF">
-</a>
-
-<a href="https://steamcommunity.com/id/dkjrz">
-<img src="https://img.shields.io/badge/Steam-0d0d12?style=for-the-badge&logo=steam&logoColor=8B7CFF">
-</a>
-
-<a href="https://www.tiktok.com/@dkjrz_airsoft">
-<img src="https://img.shields.io/badge/TikTok-0d0d12?style=for-the-badge&logo=tiktok&logoColor=8B7CFF">
-</a>
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-## 🖤 MIDNIGHT ZONE
-
-<br>
-
-```text
-          ╔══════════════════════════════╗
-          ║                              ║
-          ║       D M T X Z              ║
-          ║                              ║
-          ║   WEB  •  CODE  •  SECURITY  ║
-          ║                              ║
-          ╚══════════════════════════════╝
-```
-
-### `No noise. Just code.`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=dmtxz&style=flat-square&color=8B7CFF&label=PROFILE+VIEWS">
-
-<br><br>
-
-<i>Thanks for visiting my shadow kingdom.</i>
-
-</div>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DMTXZ — Web Developer, Python Developer & Cybersecurity Student">
+    <title>DMTXZ — Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="background-grid"></div>
+
+    <header class="header">
+        <div class="container nav">
+            <a href="#home" class="logo">DMT<span>XZ</span></a>
+
+            <nav class="nav-links">
+                <a href="#home">Главная</a>
+                <a href="#about">Обо мне</a>
+                <a href="#skills">Навыки</a>
+                <a href="#projects">Проекты</a>
+                <a href="#security">Cybersecurity</a>
+                <a href="#contact">Контакты</a>
+            </nav>
+
+            <button class="menu-btn" aria-label="Открыть меню">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+
+        <section id="home" class="hero">
+            <div class="container hero-content">
+
+                <div class="hero-text">
+                    <p class="hero-label">WEB DEVELOPER / PYTHON / CYBERSECURITY</p>
+
+                    <h1>
+                        Building things<br>
+                        <span>in the dark.</span>
+                    </h1>
+
+                    <p class="hero-description">
+                        Разрабатываю сайты, приложения и небольшие проекты,
+                        изучаю программирование и постепенно углубляюсь
+                        в информационную безопасность.
+                    </p>
+
+                    <div class="hero-buttons">
+                        <a href="#projects" class="btn btn-primary">
+                            Мои проекты
+                        </a>
+
+                        <a href="#contact" class="btn btn-secondary">
+                            Связаться
+                        </a>
+                    </div>
+
+                    <div class="hero-status">
+                        <span class="status-dot"></span>
+                        Available for projects
+                    </div>
+                </div>
+
+                <div class="hero-card">
+                    <div class="terminal-top">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <div class="terminal-body">
+                        <p><span class="purple">user</span>@<span class="purple">dmtxz</span>:~$ whoami</p>
+                        <p class="terminal-output">DMTXZ</p>
+
+                        <p><span class="purple">user</span>@<span class="purple">dmtxz</span>:~$ skills</p>
+                        <p class="terminal-output">
+                            Python<br>
+                            HTML / CSS / JS<br>
+                            C++<br>
+                            Linux<br>
+                            Cybersecurity
+                        </p>
+
+                        <p>
+                            <span class="purple">user</span>@<span class="purple">dmtxz</span>:~$
+                            <span class="cursor"></span>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+
+        <section id="about" class="section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span>01</span>
+                    <h2>Обо мне</h2>
+                </div>
+
+                <div class="about-grid">
+
+                    <div class="about-text">
+                        <p class="accent-text">
+                            Привет. Я DMTXZ.
+                        </p>
+
+                        <p>
+                            Я занимаюсь разработкой сайтов и программ,
+                            экспериментирую с Python, C++, JavaScript
+                            и различными технологиями веб-разработки.
+                        </p>
+
+                        <p>
+                            Мне нравится не просто использовать готовые
+                            решения, а разбираться в том, как всё работает
+                            внутри.
+                        </p>
+
+                        <p>
+                            Сейчас отдельное направление моего развития —
+                            cybersecurity, Linux, сети и основы
+                            информационной безопасности.
+                        </p>
+                    </div>
+
+                    <div class="about-info">
+                        <div class="info-item">
+                            <span>01</span>
+                            <div>
+                                <small>Focus</small>
+                                <strong>Development</strong>
+                            </div>
+                        </div>
+
+                        <div class="info-item">
+                            <span>02</span>
+                            <div>
+                                <small>Learning</small>
+                                <strong>Cybersecurity</strong>
+                            </div>
+                        </div>
+
+                        <div class="info-item">
+                            <span>03</span>
+                            <div>
+                                <small>Environment</small>
+                                <strong>Linux / Windows</strong>
+                            </div>
+                        </div>
+
+                        <div class="info-item">
+                            <span>04</span>
+                            <div>
+                                <small>Location</small>
+                                <strong>Ukraine</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+        <section id="skills" class="section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span>02</span>
+                    <h2>Навыки</h2>
+                </div>
+
+                <div class="skills-grid">
+
+                    <div class="skill-card">
+                        <div class="skill-number">01</div>
+                        <h3>Python</h3>
+                        <p>
+                            Создание приложений, Telegram-ботов,
+                            небольших инструментов и игровых проектов.
+                        </p>
+                        <div class="skill-tags">
+                            <span>Python</span>
+                            <span>Flask</span>
+                            <span>Tkinter</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-number">02</div>
+                        <h3>Web Development</h3>
+                        <p>
+                            Разработка адаптивных сайтов с чистой
+                            структурой и понятным интерфейсом.
+                        </p>
+                        <div class="skill-tags">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-number">03</div>
+                        <h3>C++</h3>
+                        <p>
+                            Основы программирования, алгоритмы,
+                            логика и работа с низкоуровневыми концепциями.
+                        </p>
+                        <div class="skill-tags">
+                            <span>C++</span>
+                            <span>OOP</span>
+                            <span>Logic</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-number">04</div>
+                        <h3>Cybersecurity</h3>
+                        <p>
+                            Изучение сетей, Linux, безопасности систем,
+                            веб-безопасности и базовых принципов защиты.
+                        </p>
+                        <div class="skill-tags">
+                            <span>Linux</span>
+                            <span>Networks</span>
+                            <span>Security</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+        <section id="projects" class="section projects-section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span>03</span>
+                    <h2>Проекты</h2>
+                </div>
+
+                <div class="projects-grid">
+
+                    <article class="project-card">
+                        <div class="project-top">
+                            <span class="project-index">01</span>
+                            <span class="project-type">PYTHON</span>
+                        </div>
+
+                        <h3>School Schedule Bot</h3>
+
+                        <p>
+                            Telegram-бот для школьного расписания.
+                            Позволяет получать расписание, время звонков
+                            и отправлять сообщения администратору.
+                        </p>
+
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>Telegram API</span>
+                        </div>
+                    </article>
+
+
+                    <article class="project-card">
+                        <div class="project-top">
+                            <span class="project-index">02</span>
+                            <span class="project-type">GAME DEV</span>
+                        </div>
+
+                        <h3>First Person Shooter</h3>
+
+                        <p>
+                            Небольшой FPS-проект на Python с системой
+                            стрельбы, врагами, HP, картой и элементами
+                            взаимодействия с окружением.
+                        </p>
+
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>Ursina</span>
+                        </div>
+                    </article>
+
+
+                    <article class="project-card">
+                        <div class="project-top">
+                            <span class="project-index">03</span>
+                            <span class="project-type">WEB</span>
+                        </div>
+
+                        <h3>Landing Page</h3>
+
+                        <p>
+                            Адаптивный веб-интерфейс с аккуратной
+                            структурой, кастомным оформлением
+                            и адаптацией под мобильные устройства.
+                        </p>
+
+                        <div class="project-tech">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                        </div>
+                    </article>
+
+
+                    <article class="project-card">
+                        <div class="project-top">
+                            <span class="project-index">04</span>
+                            <span class="project-type">COMMUNITY</span>
+                        </div>
+
+                        <h3>SA Police Community</h3>
+
+                        <p>
+                            Веб-проект для игрового сообщества
+                            с информационными страницами,
+                            оформлением и структурой проекта.
+                        </p>
+
+                        <div class="project-tech">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+
+
+        <section id="security" class="section security-section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span>04</span>
+                    <h2>Cybersecurity</h2>
+                </div>
+
+                <div class="security-content">
+
+                    <div class="security-intro">
+                        <p class="accent-text">
+                            Current direction
+                        </p>
+
+                        <h3>
+                            From development<br>
+                            to security.
+                        </h3>
+
+                        <p>
+                            Развитие в направлении информационной
+                            безопасности является одной из основных
+                            целей моего обучения.
+                        </p>
+                    </div>
+
+                    <div class="roadmap">
+
+                        <div class="roadmap-item active">
+                            <span>01</span>
+                            <div>
+                                <h4>Programming</h4>
+                                <p>Python / C++ / Web</p>
+                            </div>
+                        </div>
+
+                        <div class="roadmap-item">
+                            <span>02</span>
+                            <div>
+                                <h4>Linux</h4>
+                                <p>System administration & CLI</p>
+                            </div>
+                        </div>
+
+                        <div class="roadmap-item">
+                            <span>03</span>
+                            <div>
+                                <h4>Networking</h4>
+                                <p>TCP/IP / HTTP / DNS</p>
+                            </div>
+                        </div>
+
+                        <div class="roadmap-item">
+                            <span>04</span>
+                            <div>
+                                <h4>Web Security</h4>
+                                <p>OWASP / vulnerabilities</p>
+                            </div>
+                        </div>
+
+                        <div class="roadmap-item">
+                            <span>05</span>
+                            <div>
+                                <h4>Cybersecurity</h4>
+                                <p>Further specialization</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+        <section class="section github-section">
+            <div class="container">
+
+                <div class="github-box">
+                    <div>
+                        <p class="hero-label">OPEN SOURCE / DEVELOPMENT</p>
+
+                        <h2>
+                            More code.<br>
+                            Less noise.
+                        </h2>
+
+                        <p>
+                            Мои проекты, эксперименты и разработки
+                            находятся в открытом доступе.
+                        </p>
+                    </div>
+
+                    <a
+                        href="https://github.com/dmtxz"
+                        target="_blank"
+                        rel="noopener"
+                        class="btn btn-primary"
+                    >
+                        GitHub →
+                    </a>
+                </div>
+
+            </div>
+        </section>
+
+
+        <section id="contact" class="section contact-section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span>05</span>
+                    <h2>Контакты</h2>
+                </div>
+
+                <div class="contact-content">
+
+                    <div class="contact-text">
+                        <p class="accent-text">Have a project?</p>
+
+                        <h2>
+                            Let's build<br>
+                            something.
+                        </h2>
+
+                        <p>
+                            Если у тебя есть идея проекта,
+                            предложение или просто хочешь связаться —
+                            пиши.
+                        </p>
+                    </div>
+
+                    <div class="contact-links">
+
+                        <a
+                            href="https://github.com/dmtxz"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <span>GitHub</span>
+                            <span>↗</span>
+                        </a>
+
+                        <a
+                            href="https://t.me/dmtxz"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <span>Telegram</span>
+                            <span>↗</span>
+                        </a>
+
+                        <a
+                            href="https://www.instagram.com/dkjrzz"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <span>Instagram</span>
+                            <span>↗</span>
+                        </a>
+
+                        <a
+                            href="https://steamcommunity.com/id/dkjrz"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            <span>Steam</span>
+                            <span>↗</span>
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+
+    <footer class="footer">
+        <div class="container footer-content">
+            <div class="logo">DMT<span>XZ</span></div>
+
+            <p>
+                © <span id="year"></span> DMTXZ. No noise. Just code.
+            </p>
+
+            <p class="footer-status">
+                SYSTEM ONLINE
+            </p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
