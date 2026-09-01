@@ -27,14 +27,4 @@ I build websites, applications, and small-scale projects, with a growing focus o
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **School Schedule Bot** | Telegram bot for school schedules, bell times, and admin messaging | Python, Telegram API |
-| **First Person Shooter** | Small FPS project with shooting mechanics, enemies, HP, and map | Python, Ursina |
-| **SA Police Community** | Web project for a gaming community with informational pages | HTML, CSS, JavaScript |
-
----
-
 📫 Reach me on [Telegram](https://t.me/dnnode)
