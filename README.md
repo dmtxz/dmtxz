@@ -3,8 +3,8 @@
 
 I build websites, applications, and small-scale projects, with a growing focus on Python development and information security fundamentals. I prefer understanding how things work under the hood rather than relying solely on ready-made solutions.
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dkjrz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dmtxz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dnnode)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dnnode)
 
 ---
 
@@ -37,4 +37,4 @@ I build websites, applications, and small-scale projects, with a growing focus o
 
 ---
 
-📫 Reach me on [Telegram](https://t.me/dmtxz)
+📫 Reach me on [Telegram](https://t.me/dnnode)
