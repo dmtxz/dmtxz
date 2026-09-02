@@ -28,3 +28,4 @@ I build websites, applications, and small-scale projects, with a growing focus o
 ---
 
 📫 Reach me on [Telegram](https://t.me/dnnode)
+💻 My portfolio [Site](https://dnnodeportfolio.netlify.app)
